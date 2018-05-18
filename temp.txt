@@ -1,0 +1,2 @@
+C:\src\wdio-cucumber-framework\node_modules\mocha\bin\mocha
+Terminate batch job (Y/N)? 
